@@ -1,0 +1,68 @@
+.box-1
+
+{
+    background: red;
+    width: 150px;
+    height: 200px;
+}
+
+.box-2 
+
+{
+    background: green;
+    width: 150px;
+    height: 100px;
+}
+
+.box-3
+
+{
+    background: yellow;
+    width: 300px;
+    height: 100px;
+}
+
+.box-4
+
+{
+    background: orange;
+    width: 50px;
+    height: 200px;
+
+}
+
+.box-5 
+{
+    background: purple;
+    width: 100px;
+    height: 150px;
+}
+
+.box-0 div
+
+{
+    background: white;
+    
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+}
+
+.main {
+    display:flex;
+    justify-content:center
+}
+
+
+.footer {
+    display:flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
+
+
+
